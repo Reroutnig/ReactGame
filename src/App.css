@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #b5fac7;
+}
+
+.pages {
+  color: #316685;
+  text-align: center;
+  font-size: 3.5rem;
+  margin-top: 10%;
+}
+.button:hover {
+  background-color: rgb(29, 141, 172); /* Green */
+  color: white;
+}
+.button{
+  background-color: rgb(92, 168, 218); /* Green */
+  border-radius: 8px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  
+}
+.home{
+  font-size: 30px;
+}
